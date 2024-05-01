@@ -1,1 +1,1 @@
-Neural Network made in C# & Unity trained on MNIST data set (Code is comming soon just need to clean it up)
+![MnistGif](https://github.com/VincentBrodin/MNIST_Neural_Network/assets/64703732/90fd7c41-506d-4242-a5cd-6a7a44c0324e)
